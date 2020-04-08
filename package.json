@@ -18,5 +18,10 @@
 		"node": ">=10"
 	},
 	"dependencies": {
+		"connect": "^3.7.0",
+		"ics-service": "^1.1.0"
+	},
+	"scripts": {
+		"start": "node index.js"
 	}
 }
