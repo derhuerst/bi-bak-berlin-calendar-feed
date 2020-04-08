@@ -1,0 +1,22 @@
+{
+	"private": true,
+	"name": "bi-bak-berlin-calendar-feed",
+	"description": "A calendar feed for bi'bak movie screenings.",
+	"version": "1.0.0",
+	"main": "index.js",
+	"keywords": [
+		"berlin",
+		"calendar",
+		"feed"
+	],
+	"author": "Jannis R <mail@jannisr.de>",
+	"homepage": "https://github.com/derhuerst/bi-bak-berlin-calendar-feed",
+	"repository": "derhuerst/bi-bak-berlin-calendar-feed",
+	"bugs": "https://github.com/derhuerst/bi-bak-berlin-calendar-feed/issues",
+	"license": "ISC",
+	"engines": {
+		"node": ">=10"
+	},
+	"dependencies": {
+	}
+}
